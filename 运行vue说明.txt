@@ -1,0 +1,2 @@
+  cd wujinvue
+  npm run dev
